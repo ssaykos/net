@@ -25,10 +25,11 @@ package net.awt.awt;
  	 	  
  	레이아웃 매니저 사용법
  		setLayout ( new FlowLayout)
+ 		
  	각 레이아웃 기본..
  		FlowLayout => Panel 이나 Applet의 기본 레이아웃
  		BorderLayout => Frame과 Dialog 의 기본 레이아웃
- 	  
+ 	  	
  */
 
 public class AwtSyntax {
